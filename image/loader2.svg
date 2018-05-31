@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Layer_2_1_">
+</g>
+<g id="Layer_1">
+	<g id="Layer_2">
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M32.055,24.87l17.98,44.102l17.84-44.102h5.238L52.159,75.13h-4.317L26.887,24.87H32.055z">
+                    
+                    <animateTransform attributeName="transform" 
+                        attributeType="XML"
+                        type="rotate"
+                        from="0 50 50"
+                        to="-360 50 50"
+                        dur="3s"
+                        repeatCount="indefinite" />
+                    
+                </path>
+			</g>
+			<g>
+				<polygon fill="#FFFFFF" points="26.887,75.115 32.125,75.115 38.727,58.796 36.232,52.707 				">
+                    
+                    <animateTransform attributeName="transform" 
+                        attributeType="XML"
+                        type="rotate"
+                        from="0 50 50"
+                        to="360 50 50"
+                        dur="3s"
+                        repeatCount="indefinite" />
+                    
+                </polygon>
+				<polygon fill="#FFFFFF" points="52.158,24.885 47.841,24.885 40.847,41.654 43.272,47.577 49.965,31.02 56.604,47.301 
+					59.032,41.362 				">
+                    
+                    <animateTransform attributeName="transform" 
+                        attributeType="XML"
+                        type="rotate"
+                        from="0 50 50"
+                        to="360 50 50"
+                        dur="3s"
+                        repeatCount="indefinite" />
+                    
+                </polygon>
+				<polygon fill="#FFFFFF" points="73.113,75.115 63.649,52.43 61.167,58.494 67.945,75.115 				">
+                    
+                    <animateTransform attributeName="transform" 
+                        attributeType="XML"
+                        type="rotate"
+                        from="0 50 50"
+                        to="360 50 50"
+                        dur="3s"
+                        repeatCount="indefinite" />
+                    
+                </polygon>
+			</g>
+			<polygon fill="#FFFFFF" points="43.258,47.588 56.607,47.588 56.607,43.761 43.533,43.761 			">
+                
+                <animateTransform attributeName="transform" 
+                        attributeType="XML"
+                        type="rotate"
+                        from="0 50 50"
+                        to="360 50 50"
+                        dur="3s"
+                        repeatCount="indefinite" />
+                
+            </polygon>
+		</g>
+	</g>
+</g>
+</svg>

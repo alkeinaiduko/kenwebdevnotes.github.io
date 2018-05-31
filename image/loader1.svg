@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="476.5 476.5 100 100" enable-background="new 476.5 476.5 100 100" xml:space="preserve">
+<g id="Layer_3">
+</g>
+<g id="Layer_2_1_">
+</g>
+<g id="Layer_1">
+	<g id="Layer_1_1_" display="none">
+		<g display="inline">
+			<g>
+				<polygon stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="520.81,890.356 517,888.443 513.19,890.356 
+					130.775,128.64 139.258,124.382 517,876.789 894.742,124.382 903.225,128.64 				"/>
+			</g>
+			<g>
+				<polygon stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="130.775,880.402 139.258,884.662 315.834,532.948 
+					310.549,522.32 				"/>
+				<polygon stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="903.225,880.402 723.014,521.448 717.729,532.077 
+					894.742,884.662 				"/>
+			</g>
+			<g>
+				<path stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M704.686,487H328.099l188.292-377.749L704.686,487z
+					 M343.435,478h345.916L516.392,131.018L343.435,478z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Layer_2">
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M508.555,501.37l17.98,44.102l17.84-44.102h5.238l-20.954,50.26h-4.317l-20.955-50.26H508.555z"/>
+			</g>
+			<g>
+				<polygon fill="#FFFFFF" points="503.387,551.615 508.625,551.615 515.227,535.296 512.732,529.207 				"/>
+				<polygon fill="#FFFFFF" points="528.658,501.385 524.341,501.385 517.347,518.154 519.772,524.077 526.465,507.52 
+					533.104,523.801 535.532,517.862 				"/>
+				<polygon fill="#FFFFFF" points="549.613,551.615 540.149,528.93 537.667,534.994 544.445,551.615 				"/>
+			</g>
+			<polygon fill="#FFFFFF" points="519.758,524.088 533.107,524.088 533.107,520.261 520.033,520.261 			"/>
+		</g>
+	</g>
+	<g>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="20.5021,20.5021" cx="526.5" cy="526.5" r="39.166">
+                    
+                <animateTransform attributeName="transform" 
+                        attributeType="XML"
+                        type="rotate"
+                        from="0"
+                        to="360"
+                        dur="10s"
+                        repeatCount="indefinite" />
+        </circle>
+	</g>
+	<g>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="7.1113,7.1113" cx="526.5" cy="526.5" r="47.548"/>
+	</g>
+</g>
+</svg>
